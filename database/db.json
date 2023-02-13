@@ -1,0 +1,38 @@
+{
+    "user":[
+      {
+        "id":1,
+        "name": "karthik",
+        "email":"karthikkashyap2405@gmail.com",
+        "password":"karthik@2405",
+        "phone":9878687888
+      },
+      {
+        "id":2,
+        "name": "bubby",
+        "email":"bubby@gmail.com",
+        "password": "123@#44",
+        "phone":9876564568
+      },
+      {
+        "id":3,
+        "name": "konyala",
+        "email":"konyala@gmail.com",
+        "password": "@!*&^&%^1234",
+        "phone":7675674654
+      },
+      {
+        "id":4,
+        "name": "rango",
+        "email":"rango2405@gmail.com",
+        "password": "*&^*&^%&$1234",
+        "phone":9978987676
+      }
+      
+    
+      
+    ]
+}
+
+
+  

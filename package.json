@@ -1,0 +1,23 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik2405-devil/loginNsignup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik2405-devil/loginNsignup/issues"
+  },
+  "homepage": "https://github.com/karthik2405-devil/loginNsignup#readme",
+  "dependencies": {
+    "install": "^0.13.0",
+    "json-server": "^0.17.1"
+  },
+  "description": ""
+}
